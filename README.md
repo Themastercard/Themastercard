@@ -1,17 +1,7 @@
 - 👋 Hi, I’m @Themastercard
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Themastercard/Themastercard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-<script>
-function suma(n,m){
-n+m;
-}
-console.log(suma(9,10));
-</script>
+- 👀 I’m interested in reading.
+- 🌱 I’m currently learning programming.
+- 💞️ I’m looking to collaborate on... i'm gonna discover it 😊.
+- 📫 How to reach me 🤨.
+- 😄 Pronouns: i don't have any.
+- ⚡ Fun fact: when i was child i eat an insect 👌.
